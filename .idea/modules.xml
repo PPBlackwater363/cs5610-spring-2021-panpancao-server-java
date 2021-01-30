@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/wbdv-sp21-02-panpancao-server-java/wbdv-sp21-02-panpancao-server-java.iml" filepath="$PROJECT_DIR$/wbdv-sp21-02-panpancao-server-java/wbdv-sp21-02-panpancao-server-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wbdv-sp21-02-panpancao-server-java/.mvn/wrapper/wrapper.iml" filepath="$PROJECT_DIR$/wbdv-sp21-02-panpancao-server-java/.mvn/wrapper/wrapper.iml" />
     </modules>
   </component>
 </project>
